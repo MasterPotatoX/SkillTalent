@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6342d75d6140db44abe781a398583612, type: 3}
+  m_Name: Healing Circle
+  m_EditorClassIdentifier: 
+  _skillName: Healing Circle
+  _description: Heal all allies in radius.
+  _manaCost: 4
+  _cooldownTime: 7
